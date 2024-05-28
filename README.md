@@ -1,7 +1,7 @@
 # Darwin Camahalan
 `Entre-Gineer (Computer Engineer & Entrepreneur)`
 ---
-![Github Profile Banner](https://user-images.githubusercontent.com/120079195/206390597-37aabb20-0ae2-4393-8b47-9899f9b953d4.png)
+![Github Profile Banner](https://github.com/DarwinCamahalan/DarwinCamahalan/assets/120079195/808a0500-46ba-45ae-8c99-a3571b323d68)
 ---
 ### Languages and Tools
 
